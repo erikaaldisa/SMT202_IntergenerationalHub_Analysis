@@ -1,1 +1,6 @@
 .ipynb_checkpoints
+*.txt
+Data Collection/out/.DS_Store
+.DS_Store
+.DS_Store
+.DS_Store
